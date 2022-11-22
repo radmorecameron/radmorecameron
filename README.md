@@ -3,4 +3,6 @@
 - 📫 How to reach me: [cam.radmore@gmail.com](mailto:cam.radmore@gmail.com)
 - 😄 Pronouns: he/him
 
-[![Cam Radmore's GitHub stats](https://github-readme-stats.vercel.app/api?username=radmorecameron)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=radmorecameron&show_icons=true&theme=highcontrast" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radmorecameron&layout=compact&theme=highcontrast" />

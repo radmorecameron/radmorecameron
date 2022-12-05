@@ -6,3 +6,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=radmorecameron&show_icons=true&theme=highcontrast" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radmorecameron&layout=compact&theme=highcontrast" />
+
+[![radmorecameron/CTP](https://github-readme-stats.vercel.app/api/pin/?username=radmorecameron&repo=ctp)](https://github.com/radmorecameron/ctp)
